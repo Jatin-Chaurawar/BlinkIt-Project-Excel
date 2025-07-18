@@ -69,9 +69,9 @@ The project includes **10+ dynamic charts** such as:
 
 Here’s a preview of the Power BI dashboard built for this project:
 
-![Dashboard Overview](assets/dashboard.png)
+![Dashboard Overview]("C:\Users\jatin\OneDrive\Pictures\Screenshots\Screenshot 2025-07-18 162357.png")
 
-> 📁 Place the `dashboard.png` inside a folder named `assets/` in your GitHub repository.
+> 📁 Place the image in a folder named `assets/` inside your GitHub repo, and rename it to `dashboard.png` for proper rendering.
 
 ---
 
