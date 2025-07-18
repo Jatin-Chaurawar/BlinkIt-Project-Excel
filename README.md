@@ -3,7 +3,7 @@
 This repository contains an end-to-end **Power BI project** based on BlinkIT's operations dataset. The project demonstrates data modeling, KPI development, and interactive report building to uncover insights that can support business decision-making.
 
 ---
-![Dashboard Overview](assets/dashboard.png)
+![Dashboard Overview](https://github.com/Jatin-Chaurawar/BlinkIt-Project-Excel)
 
 ## 📁 Dataset Overview
 
