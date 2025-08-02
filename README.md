@@ -1,100 +1,72 @@
-# 📊 BlinkIT Data Analysis Project
+# 🚀 BlinkIT Sales Analysis | Power BI Project
 
-This repository contains an end-to-end **Power BI project** based on BlinkIT's operations dataset. The project demonstrates data modeling, KPI development, and interactive report building to uncover insights that can support business decision-making.
+Analyze. Visualize. Act.  
+This project explores BlinkIT’s operational data to uncover key business insights using Power BI dashboards.
 
----
 ![Dashboard Overview](https://github.com/Jatin-Chaurawar/BlinkIt-Project-Excel/blob/main/Dashboard.png)
 
-## 📁 Dataset Overview
+---
 
-The data was sourced from internal BlinkIT systems and provided in an Excel format. It contains the following key information:
+## 📌 Key Features
 
-- **Orders**: Order ID, timestamps, values  
-- **Products**: Product details and categories  
-- **Customers**: Demographics and customer IDs  
-- **Stores**: Store locations and performance  
-- **Employees**: Sales rep and manager details  
-- **Sales**: Sales metrics, profit, discounts, revenue  
-- **Others**: Delivery times, ratings, feedback  
+- ✅ Data modeling using **star schema**
+- ✅ 10+ interactive visuals & custom KPIs
+- ✅ Clean, user-friendly Power BI dashboard
+- ✅ Real-world use case: E-commerce operations
 
 ---
 
-## 🏗️ Power BI Features
+## 🧩 Dataset Highlights
 
-### 🧱 Data Model
-
-- Star Schema with multiple **Dimension Tables**:
-  - `dim_Date`
-  - `dim_Product`
-  - `dim_Customer`
-  - `dim_Store`
-  - `dim_Employee`
-  - `dim_Salary`
-- Central **Fact Table** for `Sales`, `Orders`, or `Transactions`
+- 🛒 Orders – IDs, timestamps, amounts  
+- 📦 Products – Categories, SKUs  
+- 👥 Customers – Demographics  
+- 🏬 Stores – Locations, performance  
+- 👨‍💼 Employees – Roles, performance  
+- 📈 Sales – Revenue, discounts, profit  
+- 📦 Delivery – Time, ratings, returns  
 
 ---
 
-### 📌 KPIs Developed
+## 📊 KPIs Included
 
-- Total Revenue  
-- Total Orders  
-- Average Order Value (AOV)  
+- Total Revenue & Orders  
+- Avg. Order Value (AOV)  
 - Gross Margin %  
-- Sales by Category/Region  
 - Top 10 Products by Sales  
-- Customer Retention Rate  
-- Delivery Time Average  
-- Order Return Rate  
+- Customer Retention  
+- Avg. Delivery Time  
+- Return Rate  
 - Employee Performance  
 
 ---
 
-## 📈 Visuals & Dashboards
+## 📈 Dashboard Highlights
 
-The project includes **10+ dynamic charts** such as:
-
-- 💹 Revenue Trend (Line Chart)  
-- 🛒 Top Selling Products (Bar Chart)  
-- 🌐 Sales by Region (Map)  
-- 🧮 Orders by Time Period (Area Chart)  
-- 📦 Product Category Distribution (Pie Chart)  
-- ⏰ Delivery Times (Box Plot)  
-- 💰 Profit vs Discount (Scatter Plot)  
-- 📆 Monthly Customer Growth (Line/Area)  
-- 📊 Employee-wise Sales (Bar Chart)  
-- 🧭 Interactive Slicers (Date, Category, Store)  
+- 📍 Regional Sales Map  
+- 📊 Category Distribution  
+- ⏱️ Delivery Time Analysis  
+- 📆 Sales Trends by Month  
+- 👥 Customer Growth  
+- 🛒 Product Sales & Ratings  
+- 🎛️ Interactive filters: Date, Region, Category
 
 ---
 
+## 🧠 Tools Used
+
+- Microsoft Power BI  
+- Excel (Data Source)  
+- DAX for Measures  
+- Power Query for Cleaning & Transformation  
 
 ---
 
-## 🎯 Project Goals
+## ▶️ How to Use
 
-- Learn and apply dimensional modeling in Power BI  
-- Create meaningful KPIs for a business context  
-- Build clean, user-friendly interactive dashboards  
-- Simulate real-world analytics scenario for BlinkIT  
-
----
-
-## 🧠 Learnings
-
-- Power BI modeling using relationships and DAX  
-- Data cleaning and transformation with Power Query  
-- Designing dashboards for storytelling  
-- Creating reusable measures and calculated columns  
+1. Clone/download the repo  
+2. Open `.pbix` file in Power BI Desktop  
+3. (Optional) Reconnect Excel source if needed  
+4. Explore the dashboard, visuals, and KPIs  
 
 ---
-
-## 🚀 How to Use
-
-1. Download the `.pbix` file from this repo (or clone and build it yourself)  
-2. Open in Power BI Desktop  
-3. Connect the provided Excel file as source if needed  
-4. Explore dashboards and play with slicers!  
-
----
-
-## 📎 File Structure
-
