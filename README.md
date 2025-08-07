@@ -58,15 +58,6 @@ This project explores BlinkIT’s operational data to uncover key business insig
 - Microsoft Power BI  
 - Excel (Data Source)  
 - DAX for Measures  
-- Power Query for Cleaning & Transformation  
-
----
-
-## ▶️ How to Use
-
-1. Clone/download the repo  
-2. Open `.pbix` file in Power BI Desktop  
-3. (Optional) Reconnect Excel source if needed  
-4. Explore the dashboard, visuals, and KPIs  
-
+- Power Query for Cleaning & Transformation
+   
 ---
